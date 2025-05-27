@@ -54,7 +54,7 @@
 })();
 */
 const messages = [
-    "Miu chắc chưaaaaaaa",
+    "Miu chắc chưa?",
     "Really sure??",
     "please please?",
     "baby please...",
